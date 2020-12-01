@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  cdn-local:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-12-01T10:57:05.16855775Z"
+    description: A Helm chart for M-CORD CDN Services in Local Edge
+    digest: 1b6653cfc6dede821da613a4d04199ebf122261bd23512d5f0b66faf6af7d7d9
+    name: cdn-local
+    urls:
+    - https://amitinfo2k.github.io/myrepo1/cdn-local-0.2.3.tgz
+    version: 0.2.3
+generated: "2020-12-01T10:57:05.167522291Z"

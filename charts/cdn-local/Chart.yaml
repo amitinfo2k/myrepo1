@@ -3,3 +3,4 @@ appVersion: "1.0"
 description: A Helm chart for M-CORD CDN Services in Local Edge
 name: cdn-local
 version: 0.2.3
+#icon: https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png
